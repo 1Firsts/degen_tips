@@ -12,6 +12,7 @@ Requires Python 3.10 and the following dependencies:
 pip install requests 
 pip install eth-account 
 pip install web3
+pip install colorlog
 ```
 
 ## Usage
